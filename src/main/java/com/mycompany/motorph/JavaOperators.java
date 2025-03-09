@@ -9,5 +9,8 @@ package com.mycompany.motorph;
  * @author Lenovo
  */
 public class JavaOperators {
-    
+
+	public static void main(String[] args) {
+       System.out.println("Hello, World!");
+    }
 }
